@@ -35,9 +35,9 @@
     <br />
     03/23 - 03/23
     <br />
-    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-champMutation-dataPreparation">Report Bug</a>
+    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-champMutation-dataPreparation/issues">Report Bug</a>
     ·
-    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-champMutation-dataPreparation">Request Feature</a>
+    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-champMutation-dataPreparation/issues">Request Feature</a>
   </p>
 </div>
 
