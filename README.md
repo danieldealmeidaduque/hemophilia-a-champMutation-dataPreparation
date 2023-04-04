@@ -27,15 +27,15 @@
 
 
 
-<h3 align="center"> Data preparation of the CDC Champ Mutation List </h3>
+<h3 align="center"> Data preparation and Visualization of the CDC Champ Mutation List </h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-datapreparation"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-data-preparation-visualization"><strong>Explore the docs »</strong></a>
     <br />
     03/23 - 03/23
     <br />
-    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-datapreparation/issues">Report Bug</a>
+    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-data-preparation-visualization/issues">Report Bug</a>
   </p>
 </div>
 
@@ -76,7 +76,7 @@
 </p>
 
 <p align="justify">
-    This project has been developed to preprocess this database make it easier to manipulate and used it in other projects.
+    This project has been developed to preprocess this database make it easier to manipulate and used it in other projects and aims to generate various graphics that analyze the mutations to determine whether they can be used to identify the severity of the disease. The graphics generated will be used to better understand the relationship between the FVIII mutations and the severity of the disease.
 </p>
 
 <!-- GETTING STARTED -->
