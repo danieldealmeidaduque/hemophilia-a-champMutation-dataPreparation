@@ -31,13 +31,11 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-champMutation-dataPreparation"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-datapreparation"><strong>Explore the docs »</strong></a>
     <br />
     03/23 - 03/23
     <br />
-    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-champMutation-dataPreparation/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-champMutation-dataPreparation/issues">Request Feature</a>
+    <a href="https://github.com/danieldealmeidaduque/hemophilia-a-datapreparation/issues">Report Bug</a>
   </p>
 </div>
 
